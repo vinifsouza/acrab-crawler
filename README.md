@@ -1,9 +1,9 @@
 # Acrab Scraper
 
 <!-- infos to portfolio
-<inconfy>vscode-icons:file-type-python<inconfy>
-<inconfy>vscode-icons:file-type-node<inconfy>
-<inconfy>vscode-icons:file-type-typescript-official<inconfy>
+<iconfy>vscode-icons:file-type-python<iconfy>
+<iconfy>vscode-icons:file-type-node<iconfy>
+<iconfy>vscode-icons:file-type-typescript-official<iconfy>
 <logo-url>https://i.imgur.com/3V7b9Ie.png<logo-url>
 -->
 
