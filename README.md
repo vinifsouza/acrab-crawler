@@ -5,6 +5,7 @@
 <iconfy>icon->vscode-icons:file-type-node<iconfy>
 <iconfy>icon->vscode-icons:file-type-typescript-official<iconfy>
 <logo-url>logo_url->https://i.imgur.com/ix76Nzt.png<logo-url>
+<ribbon>ribbon->preview<ribbon>
 -->
 
 
